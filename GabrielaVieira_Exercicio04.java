@@ -5,7 +5,7 @@ Data: 29/5/2023
 public class GabrielaVieira_Exercicio04 {
     public static void main(String[] args) {
         
-        //Criando as variáveis
+
         System.out.println("Números ímpares entre 0 e 1000:");
 
         for (int i = 1; i <= 1000; i += 2) {
