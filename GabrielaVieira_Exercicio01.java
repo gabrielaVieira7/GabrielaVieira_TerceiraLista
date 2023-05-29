@@ -10,7 +10,7 @@ Data: 23/05/2023
         int num = 0;
     
         //Mostrando o que ira acontecer no algoritmo
-        System.out.println("Todos os números entre 0 e 1000");
+        System.out.println("Todos os números entre 0 e 1000 são: ");
     
         while (num <= 1000) {
             System.out.println(num);
