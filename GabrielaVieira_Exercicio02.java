@@ -23,7 +23,7 @@ public class GabrielaVieira_Exercicio02 {
         System.out.println("Digite outro número inteiro: ");
         val2 = leitor.nextInt();
         
-        System.out.println("Números entre " + val1 + " e " + val2 + ":");
+        System.out.println("Números entre " + val1 + " e " + val2 + " são: ");
         
        
         if (val1 <= val2) {
