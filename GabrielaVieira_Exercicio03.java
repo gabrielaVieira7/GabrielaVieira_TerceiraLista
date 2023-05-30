@@ -34,9 +34,9 @@ Data: 24/05/2023
             //Calcule a média
             media = somadora / contador;
 
-            System.out.println("A var 'somadora' é: " + soma);
+            System.out.println("A var 'somadora' é: " + somadora);
 
-            System.out.println("A var 'contador' é " + cont);
+            System.out.println("A var 'contador' é " + contador);
 
             System.out.println("A média é: " + media);
             
