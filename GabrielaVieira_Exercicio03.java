@@ -12,31 +12,31 @@ Data: 24/05/2023
         Scanner reader = new Scanner (System.in);
         
         //Cria das variáveis
-        int cont;
-        double soma, media;
+        int contador;
+        double somadora, media;
 
         //Inicialização das variáveis
-        cont = 0;
-        soma = 0.0;
+        contador = 0;
+        somadora = 0.0;
         media = 0.0;
         
         //Pega os 500 números
-        while (cont < 10) {
+        while (contador < 500) {
             System.out.println("Digite um número: ");
 
             //Pega o valor que o usuário colocou
-            soma += reader.nextDouble();
+            somadora += reader.nextDouble();
 
             //Acrescenta a var cont
-            cont++;
+            contador++;
         }
 
             //Calcule a média
-            media = soma / cont;
+            media = somadora / contador;
 
-            System.out.println("A var 'soma' é: " + soma);
+            System.out.println("A var 'somadora' é: " + soma);
 
-            System.out.println("A var 'cont' é " + cont);
+            System.out.println("A var 'contador' é " + cont);
 
             System.out.println("A média é: " + media);
             
