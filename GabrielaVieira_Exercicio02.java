@@ -10,7 +10,7 @@ public class GabrielaVieira_Exercicio02 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         
-         //inicia as variáveis
+         //Criando e inicializando as variáveis
          int val1 = 0;
          int val2 = 0;
          int tes = 0;
